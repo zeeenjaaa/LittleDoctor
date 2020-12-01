@@ -34,6 +34,3 @@ The task of the Little Doctor is to survive the working day.
 ![Test Image 5](https://github.com/zeeenjaaa/LittleDoctor/blob/main/for_readme/ScreenRecorderProject3.gif)  
 **GameOver**  
 ![Test Image 5](https://github.com/zeeenjaaa/LittleDoctor/blob/main/for_readme/ScreenRecorderProject4.gif)    
-## Last build
-https://github.com/zeeenjaaa/LittleDoctor/blob/main/build/outputs/apk/debug/android-debug.apk
-
