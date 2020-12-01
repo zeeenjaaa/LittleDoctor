@@ -1,5 +1,12 @@
 # LittleDoctor
 Simple Android game about Little Doctor made with LibGDX library.  
+#### Game is not finished.  
+### The game contain bugs and problems.         
+
+
+Простая Android игра про Маленького Доктора, сделанная с использованием библиотеки LibGDX.  
+#### Игра не закончена.  
+### В игре есть ошибки и проблемы.  
 
 ## Game description  
 ### en:
